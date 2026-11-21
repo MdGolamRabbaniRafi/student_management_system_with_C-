@@ -1,0 +1,14 @@
+F:\code\.Net\Student-management-system\Student-management-system\bin\Debug\net9.0\Student-management-system.exe
+F:\code\.Net\Student-management-system\Student-management-system\bin\Debug\net9.0\Student-management-system.deps.json
+F:\code\.Net\Student-management-system\Student-management-system\bin\Debug\net9.0\Student-management-system.runtimeconfig.json
+F:\code\.Net\Student-management-system\Student-management-system\bin\Debug\net9.0\Student-management-system.dll
+F:\code\.Net\Student-management-system\Student-management-system\bin\Debug\net9.0\Student-management-system.pdb
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.AssemblyInfoInputs.cache
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.AssemblyInfo.cs
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.csproj.CoreCompileInputs.cache
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.dll
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\refint\Student-management-system.dll
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.pdb
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.genruntimeconfig.cache
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\ref\Student-management-system.dll
