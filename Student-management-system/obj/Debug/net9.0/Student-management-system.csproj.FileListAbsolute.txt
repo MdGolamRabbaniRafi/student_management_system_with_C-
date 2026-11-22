@@ -29,3 +29,4 @@ C:\DotNetCore\.netcorepractices\student_management_system_with_C-\Student-manage
 C:\DotNetCore\.netcorepractices\student_management_system_with_C-\Student-management-system\obj\Debug\net9.0\ref\Student-management-system.dll
 C:\DotNetCore\.netcorepractices\student_management_system_with_C-\Student-management-system\bin\Debug\net9.0\Student-management-system.runtimeconfig.dev.json
 C:\DotNetCore\.netcorepractices\student_management_system_with_C-\Student-management-system\obj\Debug\net9.0\Student-.56FC15FD.Up2Date
+F:\code\.Net\Student-management-system\Student-management-system\obj\Debug\net9.0\Student-management-system.sourcelink.json

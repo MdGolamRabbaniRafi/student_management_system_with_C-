@@ -10,19 +10,19 @@ public class Program
         Console.WriteLine("1. Teacher");
         Console.WriteLine("2. Student");
         Console.WriteLine("3. Admin");
-        Console.WriteLine("Select an option:");
+        Console.Write("Select an option:");
 
 
         string userType = Console.ReadLine();
 
 
-        Student s1 = new Student();
+        //Student s1 = new Student();
 
-        s1.Id = 1;
-        s1.Name = "Auhin";
-        s1.Description = "He Is A Math's Student";
-        s1.Age = 28;
-        s1.status = "Active";
+        //s1.Id = 1;
+        //s1.Name = "Auhin";
+        //s1.Description = "He Is A Math's Student";
+        //s1.Age = 28;
+        //s1.status = "Active";
 
 
 
@@ -30,8 +30,14 @@ public class Program
 
         if (userType == "1")
         {
+            Console.WriteLine("Enter Student List Size: ");
+            int size = int.Parse(Console.ReadLine());
+
+            Student[] students = new Student[size];
+
             Teacher teacher = new Teacher();
-            teacher.TeacherMenu();
+
+            teacher.TeacherMenu(students);
         }
         //else if (userType == "2")
         //{
