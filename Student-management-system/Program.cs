@@ -11,7 +11,23 @@ public class Program
         Console.WriteLine("2. Student");
         Console.WriteLine("3. Admin");
         Console.WriteLine("Select an option:");
+
+
         string userType = Console.ReadLine();
+
+
+        Student s1 = new Student();
+
+        s1.Id = 1;
+        s1.Name = "Auhin";
+        s1.Description = "He Is A Math's Student";
+        s1.Age = 28;
+        s1.status = "Active";
+
+
+
+
+
         if (userType == "1")
         {
             Teacher teacher = new Teacher();
@@ -32,7 +48,7 @@ public class Program
             Console.WriteLine("Invalid option. Please try again.");
         }
 
-       
+       Console.ReadKey();
 
     }
 }

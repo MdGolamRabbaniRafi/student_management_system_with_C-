@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\code\\.Net\\Student-management-system\\",
+  "WorkspaceRootPath": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|f:\\code\\.net\\student-management-system\\student-management-system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|c:\\dotnetcore\\.netcorepractices\\student_management_system_with_c-\\student-management-system\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|solutionrelative:student-management-system\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|c:\\dotnetcore\\.netcorepractices\\student_management_system_with_c-\\student-management-system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|solutionrelative:student-management-system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|f:\\code\\.net\\student-management-system\\student-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|c:\\dotnetcore\\.netcorepractices\\student_management_system_with_c-\\student-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|solutionrelative:student-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|c:\\dotnetcore\\.netcorepractices\\student_management_system_with_c-\\student-management-system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA3AF1-6384-4023-8E01-C1549066A7F8}|Student-management-system\\Student-management-system.csproj|solutionrelative:student-management-system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Student.cs",
+              "RelativeDocumentMoniker": "Student-management-system\\Student.cs",
+              "ToolTip": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Student.cs",
+              "RelativeToolTip": "Student-management-system\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T17:42:09.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Profile.cs",
+              "RelativeDocumentMoniker": "Student-management-system\\Profile.cs",
+              "ToolTip": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Profile.cs",
+              "RelativeToolTip": "Student-management-system\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T17:03:00.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "F:\\code\\.Net\\Student-management-system\\Student-management-system\\Teacher.cs",
+              "DocumentMoniker": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Teacher.cs",
               "RelativeDocumentMoniker": "Student-management-system\\Teacher.cs",
-              "ToolTip": "F:\\code\\.Net\\Student-management-system\\Student-management-system\\Teacher.cs*",
-              "RelativeToolTip": "Student-management-system\\Teacher.cs*",
-              "ViewState": "AgIAACEAAAAA9/////8PwCgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Teacher.cs",
+              "RelativeToolTip": "Student-management-system\\Teacher.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-21T16:52:05.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\code\\.Net\\Student-management-system\\Student-management-system\\Program.cs",
+              "DocumentMoniker": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Program.cs",
               "RelativeDocumentMoniker": "Student-management-system\\Program.cs",
-              "ToolTip": "F:\\code\\.Net\\Student-management-system\\Student-management-system\\Program.cs",
+              "ToolTip": "C:\\DotNetCore\\.netcorepractices\\student_management_system_with_C-\\Student-management-system\\Program.cs",
               "RelativeToolTip": "Student-management-system\\Program.cs",
-              "ViewState": "AgIAAAIAAABg//////8gwBEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-21T16:50:57.648Z",
               "EditorCaption": ""
